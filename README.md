@@ -1,4 +1,4 @@
-# 📊 HR Attrition Analysis Dashboard (Task 03)
+# 📊 HR Attrition Analysis Dashboard
 
 ## 📌 Project Overview
 
@@ -128,16 +128,6 @@ HR_Attrition_Analysis_Dashboard/
 └── README.md
 
 ```
-
----
-
-## 📸 Dashboard Preview
-
-![Dashboard Preview]
-<p_align = 'center'>
-<img src = "HR_Attrition_Analysis_Dashboard_Thumbnail.jpg" width = "800"/>
-
----
 
 ## 🚀 Outcome
 
